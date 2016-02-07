@@ -24,6 +24,8 @@ Edit the `Controller` class to change the answer to this question (use the name 
  
  * In Eclipse, just save the file and the server will update your answer
  * In IntelliJ IDEA, run `Build -> Make project` ( ⌘-F9 by default) to update
+ 
+You can test-drive your code with the `ControllerShould` class.
   
 ##Game##
   

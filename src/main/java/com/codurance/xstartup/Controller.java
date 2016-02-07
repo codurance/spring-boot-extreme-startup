@@ -10,7 +10,7 @@ public class Controller {
   @RequestMapping("/")
   public String answerQuestion(@RequestParam("q") String question) {
     System.out.println("Got question " + question);
-    return "myResponse";
+    return "Hal";
   }
 
 }
